@@ -9,6 +9,7 @@
 ## Препроцессинг данных
 
 **Файл:** [data_preprocessing.ipynb](https://github.com/alyferryhalo/AChE_inhibitor_predictor/blob/main/data_preprocessing.ipynb)
+
 **Результат:** [data.csv](https://github.com/alyferryhalo/AChE_inhibitor_predictor/blob/main/data.csv)
 
 Для препроцессинга было сделано следующее:
@@ -20,4 +21,5 @@
 5. Расставлены метки классов (активные 1 и неактивные 0) по правилу: активными молекулами считаются те, чьи IC50 меньше или равны 500 нМ
 
 **Неактивных** молекул — **3646**
-**Активные** молекул — **1993**
+
+**Активных** молекул — **1993**
